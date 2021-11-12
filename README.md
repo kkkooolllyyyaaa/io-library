@@ -1,4 +1,4 @@
-# [Code:](https://github.com/kkkooolllyyyaaa/io-library/edit/master/lib.inc)
+# [Code](https://github.com/kkkooolllyyyaaa/io-library/blob/master/lib.inc)
 # Assignment: Input/Output library in assembly
 ---
 Лабораторная работа: библиотека ввода-вывода на Assembler
